@@ -3,7 +3,7 @@
 #include <string>
 
 class Dog {
-private:
+public:
   std::string _name;
   int _age;
   std::string _type;
